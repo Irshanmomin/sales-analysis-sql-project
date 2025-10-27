@@ -1,2 +1,3 @@
 # sales-analysis-sql-project
 A complete SQL-based Business Analytics project performed on a sales dataset. This project covers data import, cleaning, exploration and analytical queries to extract business insights. The SQL tasks include creating databases, importing CSV data, running aggregate functions, filtering, grouping and generating sales performance insights.
+I tried but couldn'd complete the task, I am not handy to MySQL, I've installed yesterday itself and tried to complete te task but sorry I failed/ But I've wrote task and learnt much from mistake lately, I'll definately do this task but as I'am out of time limit I've to submit my tryings. Sorry.
